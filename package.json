@@ -11,12 +11,17 @@
     "url": "git+https://github.com/kodansha/eslint-config.git"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "eslintconfig"
   ],
   "author": "KODANSHAtech LLC.",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kodansha/eslint-config/issues"
   },
-  "homepage": "https://github.com/kodansha/eslint-config#readme"
+  "homepage": "https://github.com/kodansha/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 7",
+    "typescript": ">= 3.8"
+  }
 }
