@@ -20,9 +20,6 @@
     "url": "https://github.com/kodansha/eslint-config/issues"
   },
   "homepage": "https://github.com/kodansha/eslint-config",
-  "publishConfig": {
-    "access": "public"
-  },
   "peerDependencies": {
     "eslint": ">= 7",
     "typescript": ">=3.9"
