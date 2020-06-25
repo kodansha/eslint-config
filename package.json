@@ -19,9 +19,16 @@
   "bugs": {
     "url": "https://github.com/kodansha/eslint-config/issues"
   },
-  "homepage": "https://github.com/kodansha/eslint-config#readme",
+  "homepage": "https://github.com/kodansha/eslint-config",
   "peerDependencies": {
     "eslint": ">= 7",
-    "typescript": ">= 3.8"
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.4.0",
+    "@typescript-eslint/parser": "^3.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0"
   }
 }
