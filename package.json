@@ -1,0 +1,22 @@
+{
+  "name": "@kodansha/eslint-config",
+  "version": "0.0.1",
+  "description": "KODANSHA ESLint Configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodansha/eslint-config.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "KODANSHAtech LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodansha/eslint-config/issues"
+  },
+  "homepage": "https://github.com/kodansha/eslint-config#readme"
+}
