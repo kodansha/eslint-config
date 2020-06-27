@@ -34,7 +34,7 @@ To use the preset for Next.js, put `.eslintrc.js` in your project's root directo
 
 ```js
 module.exports = {
-  extends: ["@kodansha/eslint-config/next"],
+  extends: ["@kodansha/eslint-config/presets/next"],
   root: true,
 };
 ```
@@ -45,7 +45,18 @@ To use the preset for Node.js, put `.eslintrc.js` in your project's root directo
 
 ```js
 module.exports = {
-  extends: ["@kodansha/eslint-config/node"],
+  extends: ["@kodansha/eslint-config/presets/node"],
+  root: true,
+};
+```
+
+### Nest.js
+
+To use the preset for Nest.js, put `.eslintrc.js` in your project's root directory:
+
+```js
+module.exports = {
+  extends: ["@kodansha/eslint-config/presets/nest"],
   root: true,
 };
 ```
