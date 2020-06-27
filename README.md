@@ -38,3 +38,14 @@ module.exports = {
   root: true,
 };
 ```
+
+### Node.js
+
+To use the preset for Node.js, put `.eslintrc.js` in your project's root directory:
+
+```js
+module.exports = {
+  extends: ["@kodansha/eslint-config/node"],
+  root: true,
+};
+```
