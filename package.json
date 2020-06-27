@@ -1,6 +1,6 @@
 {
   "name": "@kodansha/eslint-config",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Set of KODANSHA ESLint Configurations",
   "main": "index.js",
   "scripts": {
