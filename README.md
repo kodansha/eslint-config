@@ -39,6 +39,17 @@ module.exports = {
 };
 ```
 
+### React.js
+
+To use the preset for React.js, put `.eslintrc.js` in your project's root directory:
+
+```js
+module.exports = {
+  extends: ["@kodansha/eslint-config/presets/react"],
+  root: true,
+};
+```
+
 ### Node.js
 
 To use the preset for Node.js, put `.eslintrc.js` in your project's root directory:
