@@ -1,18 +1,19 @@
 # @kodansha/eslint-config
 
 A set of KODANSHA ESLint configuration for TypeScript projects.
-All configuration presets work along with prettier.
+
+It is recommended to use this along with [@kodansha/prettier-config](https://github.com/kodansha/prettier-config).
 
 ## Installation
 
 ```
-npm install -D typescript eslint prettier @kodansha/eslint-config
+npm install -D typescript eslint @kodansha/eslint-config
 ```
 
 or
 
 ```
-yarn add -D typescript eslint prettier @kodansha/eslint-config
+yarn add -D typescript eslint @kodansha/eslint-config
 ```
 
 ## Usage
