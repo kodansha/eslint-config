@@ -1,5 +1,8 @@
 # @kodansha/eslint-config
 
+> [!IMPORTANT]  
+> This package is deprecated and no longer maintained.
+
 A set of KODANSHA ESLint configuration for TypeScript projects.
 
 It is recommended to use this along with [@kodansha/prettier-config](https://github.com/kodansha/prettier-config).
